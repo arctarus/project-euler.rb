@@ -1,8 +1,9 @@
 == project-euler.rb
 
-Ruby solutions to Project Euler (link:http://projecteuler.net).
+Spoilers Warnings! Ruby solutions to Project Euler problems (link:http://projecteuler.net).
 
 For now, the list of solved problems is:
 
 * Problem 1
 * Problem 2
+* Problem 3
