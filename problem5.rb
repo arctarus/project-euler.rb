@@ -9,13 +9,7 @@
 
 # check if num is divisible by all the numbers from 1 to n
 def divisible?(num, n)
-	i = 2
-	divisible = true
-	while i <= n and divisible
-		divisible = false if num % i != 0
-		i += 1
-	end
-	divisible
+	(2..n).to_a.all? {|i| num % i == 0}
 end
 
 # return the smallest number that can be divided by each of numbers from 1
