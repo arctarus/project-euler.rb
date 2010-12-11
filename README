@@ -1,6 +1,6 @@
 == project-euler.rb
 
-Spoilers Warnings! Ruby solutions to Project Euler problems (link:http://projecteuler.net).
+Spoilers Warning! Ruby solutions to Project Euler problems (link:http://projecteuler.net).
 
 For now, the list of solved problems is:
 
@@ -11,3 +11,4 @@ For now, the list of solved problems is:
 * Problem 5: What is the smallest number divisible by each of the numbers 1 to 20?
 * Problem 6: What is the difference between the sum of the squares and the square of the sums? 
 * Problem 7: Find the 10001st prime.
+* Problem 8: Discover the largest product of five consecutive digits in the 1000-digit number.
